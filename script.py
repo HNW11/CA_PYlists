@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "cfce40ec",
+   "id": "54d87aed",
    "metadata": {},
    "source": [
     "# Make Some Pizzas"
@@ -11,7 +11,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "2e091028",
+   "id": "5d13e29c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -21,7 +21,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "2f577252",
+   "id": "b7f3c22e",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -31,7 +31,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "5dc86438",
+   "id": "375098ad",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -41,7 +41,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b731632f",
+   "id": "19c4fc83",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -51,7 +51,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "a720d7e8",
+   "id": "61f40141",
    "metadata": {},
    "outputs": [
     {
@@ -69,7 +69,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "19f9170c",
+   "id": "e5d9f116",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -79,7 +79,7 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "606e4c68",
+   "id": "0dfba792",
    "metadata": {},
    "outputs": [
     {
@@ -96,7 +96,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "edf4e6ae",
+   "id": "164bdbc8",
    "metadata": {},
    "source": [
     "# Sorting and Slicing Pizzas"
@@ -105,7 +105,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "c705611f",
+   "id": "f2d1b540",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -115,7 +115,7 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "c9a351c5",
+   "id": "85212989",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -125,7 +125,7 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "654105e9",
+   "id": "2310bfc2",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -135,7 +135,7 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "5310e6bd",
+   "id": "e4a8306f",
    "metadata": {},
    "outputs": [
     {
@@ -156,7 +156,7 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "06d7183e",
+   "id": "7f940863",
    "metadata": {},
    "outputs": [
     {
@@ -174,7 +174,7 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "a07bf6ed",
+   "id": "b1fdc00c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -184,7 +184,7 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "59a8bffb",
+   "id": "3f9dbc21",
    "metadata": {},
    "outputs": [
     {
@@ -202,7 +202,7 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "6385b2c4",
+   "id": "5dd8e55b",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -212,7 +212,7 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "f08a92ea",
+   "id": "3a350ddd",
    "metadata": {},
    "outputs": [
     {
@@ -230,7 +230,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "156fd6b4",
+   "id": "ade2e27b",
    "metadata": {},
    "outputs": [],
    "source": []
